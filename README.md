@@ -1,6 +1,6 @@
 # Simple Todo App with FastAPI
 
-## https://simple-todo-admoxei18-uygar-polats-projects.vercel.app/
+## https://simple-todo-app-nu-seven.vercel.app/
 
 ### A minimal Todo web application that allows you to keep track of your chores.
 
@@ -9,7 +9,7 @@
 This project is a learning implementation that follows the truly wonderful Udemy course [FastAPI - The Complete Course](https://www.udemy.com/course/fastapi-the-complete-course/). The focus is server side development with Python's FastAPI. The frontend is intentionally minimal and template driven so the attention stays on the API, auth, data layer, and tests.
 
 ## Using the app
-1. [Visit the URL](https://simple-todo-admoxei18-uygar-polats-projects.vercel.app/).
+1. [Visit the URL](https://simple-todo-app-nu-seven.vercel.app/).
 2. Register a new account.
 3. Log in using your username and password. The login expects the username field, not email.
 4. Create, edit, and delete todos.
